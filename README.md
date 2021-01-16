@@ -2,4 +2,6 @@
 
 Link to the shiny app: https://ebcucs.shinyapps.io/finalProj/
 
+INFOGRAPHICS:
+
 ![](https://github.com/irenechang1510/Viz-a-thon-2021/blob/main/Viz-a-thon.png)
