@@ -1,0 +1,1123 @@
+"","iso-a3","continent","Entity","Year","Indicator.2.2.2b..Prevalence.of.overweight.in.children.aged.2.4.......Past...Unscaled"
+"1","USA","North America","United States",1990,17.333
+"2","USA","North America","United States",1995,18.141
+"3","USA","North America","United States",2000,20.598
+"4","USA","North America","United States",2005,21.499
+"5","USA","North America","United States",2010,22.148
+"6","USA","North America","United States",2016,24.027
+"7","JPN","Asia","Japan",1990,8.265
+"8","JPN","Asia","Japan",1995,8.841
+"9","JPN","Asia","Japan",2000,9.787
+"10","JPN","Asia","Japan",2005,11.754
+"11","JPN","Asia","Japan",2010,12.62
+"12","JPN","Asia","Japan",2016,13.579
+"13","SYC","Seven seas (open ocean)","Seychelles",1990,14.676
+"14","SYC","Seven seas (open ocean)","Seychelles",1995,17.461
+"15","SYC","Seven seas (open ocean)","Seychelles",2000,19.206
+"16","SYC","Seven seas (open ocean)","Seychelles",2005,20.761
+"17","SYC","Seven seas (open ocean)","Seychelles",2010,22.549
+"18","SYC","Seven seas (open ocean)","Seychelles",2016,25.508
+"19","IND","Asia","India",1990,7.592
+"20","IND","Asia","India",1995,8.162
+"21","IND","Asia","India",2000,7.33
+"22","IND","Asia","India",2005,6.728
+"23","IND","Asia","India",2010,8.764
+"24","IND","Asia","India",2016,11.778
+"25","FRA","Europe","France",1990,16.593
+"26","FRA","Europe","France",1995,18.655
+"27","FRA","Europe","France",2000,19.911
+"28","FRA","Europe","France",2005,20.346
+"29","FRA","Europe","France",2010,21.059
+"30","FRA","Europe","France",2016,21.295
+"31","FSM","Oceania","Micronesia (country)",1990,29.006
+"32","FSM","Oceania","Micronesia (country)",1995,33.214
+"33","FSM","Oceania","Micronesia (country)",2000,36.854
+"34","FSM","Oceania","Micronesia (country)",2005,38.227
+"35","FSM","Oceania","Micronesia (country)",2010,39.821
+"36","FSM","Oceania","Micronesia (country)",2016,41.88
+"37","CHN","Asia","China",1990,7.094
+"38","CHN","Asia","China",1995,10.037
+"39","CHN","Asia","China",2000,17.319
+"40","CHN","Asia","China",2005,23.702
+"41","CHN","Asia","China",2010,22.908
+"42","CHN","Asia","China",2016,24.093
+"43","PRT","Europe","Portugal",1990,20.713
+"44","PRT","Europe","Portugal",1995,25.838
+"45","PRT","Europe","Portugal",2000,29.184
+"46","PRT","Europe","Portugal",2005,31.269
+"47","PRT","Europe","Portugal",2010,31.689
+"48","PRT","Europe","Portugal",2016,31.684
+"49","BRA","South America","Brazil",1990,14.328
+"50","BRA","South America","Brazil",1995,15.991
+"51","BRA","South America","Brazil",2000,20.366
+"52","BRA","South America","Brazil",2005,24.173
+"53","BRA","South America","Brazil",2010,28.386
+"54","BRA","South America","Brazil",2016,32.631
+"55","KIR","Oceania","Kiribati",1990,28.862
+"56","KIR","Oceania","Kiribati",1995,31.128
+"57","KIR","Oceania","Kiribati",2000,33.453
+"58","KIR","Oceania","Kiribati",2005,35.279
+"59","KIR","Oceania","Kiribati",2010,36.248
+"60","KIR","Oceania","Kiribati",2016,38.792
+"61","PHL","Asia","Philippines",1990,3.974
+"62","PHL","Asia","Philippines",1995,4.638
+"63","PHL","Asia","Philippines",2000,5.558
+"64","PHL","Asia","Philippines",2005,6.867
+"65","PHL","Asia","Philippines",2010,8.504
+"66","PHL","Asia","Philippines",2016,9.905
+"67","MEX","North America","Mexico",1990,23.166
+"68","MEX","North America","Mexico",1995,26.775
+"69","MEX","North America","Mexico",2000,26.014
+"70","MEX","North America","Mexico",2005,23.553
+"71","MEX","North America","Mexico",2010,20.883
+"72","MEX","North America","Mexico",2016,23.974
+"73","ESP","Europe","Spain",1990,24.501
+"74","ESP","Europe","Spain",1995,28.702
+"75","ESP","Europe","Spain",2000,31.44
+"76","ESP","Europe","Spain",2005,32.759
+"77","ESP","Europe","Spain",2010,34.221
+"78","ESP","Europe","Spain",2016,34.317
+"79","MDV","Seven seas (open ocean)","Maldives",1990,4.806
+"80","MDV","Seven seas (open ocean)","Maldives",1995,6.129
+"81","MDV","Seven seas (open ocean)","Maldives",2000,7.507
+"82","MDV","Seven seas (open ocean)","Maldives",2005,8.888
+"83","MDV","Seven seas (open ocean)","Maldives",2010,11.038
+"84","MDV","Seven seas (open ocean)","Maldives",2016,14.802
+"85","GBR","Europe","United Kingdom",1990,17.742
+"86","GBR","Europe","United Kingdom",1995,20.479
+"87","GBR","Europe","United Kingdom",2000,23.57
+"88","GBR","Europe","United Kingdom",2005,25.105
+"89","GBR","Europe","United Kingdom",2010,25.202
+"90","GBR","Europe","United Kingdom",2016,26.46
+"91","GRC","Europe","Greece",1990,23.46
+"92","GRC","Europe","Greece",1995,26.349
+"93","GRC","Europe","Greece",2000,27.877
+"94","GRC","Europe","Greece",2005,31.319
+"95","GRC","Europe","Greece",2010,34.949
+"96","GRC","Europe","Greece",2016,34.851
+"97","DNK","Europe","Denmark",1990,22.372
+"98","DNK","Europe","Denmark",1995,25.351
+"99","DNK","Europe","Denmark",2000,28.549
+"100","DNK","Europe","Denmark",2005,30.594
+"101","DNK","Europe","Denmark",2010,31.089
+"102","DNK","Europe","Denmark",2016,30.412
+"103","CAN","North America","Canada",1990,18.956
+"104","CAN","North America","Canada",1995,20.003
+"105","CAN","North America","Canada",2000,22.415
+"106","CAN","North America","Canada",2005,26.153
+"107","CAN","North America","Canada",2010,27.862
+"108","CAN","North America","Canada",2016,29.286
+"109","STP","Africa","Sao Tome and Principe",1990,10.574
+"110","STP","Africa","Sao Tome and Principe",1995,12.383
+"111","STP","Africa","Sao Tome and Principe",2000,13.454
+"112","STP","Africa","Sao Tome and Principe",2005,14.201
+"113","STP","Africa","Sao Tome and Principe",2010,12.872
+"114","STP","Africa","Sao Tome and Principe",2016,10.421
+"115","CPV","Africa","Cape Verde",1990,10.051
+"116","CPV","Africa","Cape Verde",1995,11.706
+"117","CPV","Africa","Cape Verde",2000,13.096
+"118","CPV","Africa","Cape Verde",2005,15.042
+"119","CPV","Africa","Cape Verde",2010,17.719
+"120","CPV","Africa","Cape Verde",2016,21.258
+"121","DMA","North America","Dominica",1990,17.553
+"122","DMA","North America","Dominica",1995,22.12
+"123","DMA","North America","Dominica",2000,24.507
+"124","DMA","North America","Dominica",2005,25.687
+"125","DMA","North America","Dominica",2010,27.152
+"126","DMA","North America","Dominica",2016,28.585
+"127","NLD","Europe","Netherlands",1990,14.069
+"128","NLD","Europe","Netherlands",1995,15.836
+"129","NLD","Europe","Netherlands",2000,16.34
+"130","NLD","Europe","Netherlands",2005,16.659
+"131","NLD","Europe","Netherlands",2010,18.428
+"132","NLD","Europe","Netherlands",2016,19.81
+"133","JAM","North America","Jamaica",1990,12.197
+"134","JAM","North America","Jamaica",1995,14.006
+"135","JAM","North America","Jamaica",2000,15.481
+"136","JAM","North America","Jamaica",2005,16.073
+"137","JAM","North America","Jamaica",2010,17.803
+"138","JAM","North America","Jamaica",2016,18.247
+"139","WSM","Oceania","Samoa",1990,38.329
+"140","WSM","Oceania","Samoa",1995,40.348
+"141","WSM","Oceania","Samoa",2000,41.861
+"142","WSM","Oceania","Samoa",2005,43.034
+"143","WSM","Oceania","Samoa",2010,45.651
+"144","WSM","Oceania","Samoa",2016,47.752
+"145","OMN","Asia","Oman",1990,12.523
+"146","OMN","Asia","Oman",1995,17.124
+"147","OMN","Asia","Oman",2000,21.449
+"148","OMN","Asia","Oman",2005,28.438
+"149","OMN","Asia","Oman",2010,37.782
+"150","OMN","Asia","Oman",2016,46.626
+"151","VCT","North America","Saint Vincent and the Grenadines",1990,25.809
+"152","VCT","North America","Saint Vincent and the Grenadines",1995,28.721
+"153","VCT","North America","Saint Vincent and the Grenadines",2000,31.461
+"154","VCT","North America","Saint Vincent and the Grenadines",2005,36.977
+"155","VCT","North America","Saint Vincent and the Grenadines",2010,41.851
+"156","VCT","North America","Saint Vincent and the Grenadines",2016,45.519
+"157","TUR","Asia","Turkey",1990,12.255
+"158","TUR","Asia","Turkey",1995,13.358
+"159","TUR","Asia","Turkey",2000,16.139
+"160","TUR","Asia","Turkey",2005,20.533
+"161","TUR","Asia","Turkey",2010,23.405
+"162","TUR","Asia","Turkey",2016,27.434
+"163","BGD","Asia","Bangladesh",1990,4.121
+"164","BGD","Asia","Bangladesh",1995,4.719
+"165","BGD","Asia","Bangladesh",2000,3.756
+"166","BGD","Asia","Bangladesh",2005,3.34
+"167","BGD","Asia","Bangladesh",2010,3.825
+"168","BGD","Asia","Bangladesh",2016,4.69
+"169","LCA","North America","Saint Lucia",1990,9.789
+"170","LCA","North America","Saint Lucia",1995,12.84
+"171","LCA","North America","Saint Lucia",2000,12.848
+"172","LCA","North America","Saint Lucia",2005,12.334
+"173","LCA","North America","Saint Lucia",2010,11.519
+"174","LCA","North America","Saint Lucia",2016,11.963
+"175","NOR","Europe","Norway",1990,17.384
+"176","NOR","Europe","Norway",1995,18.407
+"177","NOR","Europe","Norway",2000,20.367
+"178","NOR","Europe","Norway",2005,21.972
+"179","NOR","Europe","Norway",2010,24.023
+"180","NOR","Europe","Norway",2016,26.503
+"181","BHR","Asia","Bahrain",1990,16.502
+"182","BHR","Asia","Bahrain",1995,18.374
+"183","BHR","Asia","Bahrain",2000,17.237
+"184","BHR","Asia","Bahrain",2005,13.688
+"185","BHR","Asia","Bahrain",2010,14.552
+"186","BHR","Asia","Bahrain",2016,17.867
+"187","TON","Oceania","Tonga",1990,36.58
+"188","TON","Oceania","Tonga",1995,40.468
+"189","TON","Oceania","Tonga",2000,42.686
+"190","TON","Oceania","Tonga",2005,45.144
+"191","TON","Oceania","Tonga",2010,47.882
+"192","TON","Oceania","Tonga",2016,50.097
+"193","FIN","Europe","Finland",1990,20.425
+"194","FIN","Europe","Finland",1995,20.974
+"195","FIN","Europe","Finland",2000,19.962
+"196","FIN","Europe","Finland",2005,18.408
+"197","FIN","Europe","Finland",2010,18.819
+"198","FIN","Europe","Finland",2016,21.493
+"199","IDN","Asia","Indonesia",1990,7.08
+"200","IDN","Asia","Indonesia",1995,8.416
+"201","IDN","Asia","Indonesia",2000,9.671
+"202","IDN","Asia","Indonesia",2005,11.304
+"203","IDN","Asia","Indonesia",2010,13.497
+"204","IDN","Asia","Indonesia",2016,17.097
+"205","MUS","Seven seas (open ocean)","Mauritius",1990,15.17
+"206","MUS","Seven seas (open ocean)","Mauritius",1995,18.86
+"207","MUS","Seven seas (open ocean)","Mauritius",2000,22.516
+"208","MUS","Seven seas (open ocean)","Mauritius",2005,25.472
+"209","MUS","Seven seas (open ocean)","Mauritius",2010,28.612
+"210","MUS","Seven seas (open ocean)","Mauritius",2016,30.348
+"211","SWE","Europe","Sweden",1990,17.181
+"212","SWE","Europe","Sweden",1995,19.345
+"213","SWE","Europe","Sweden",2000,22.223
+"214","SWE","Europe","Sweden",2005,23.284
+"215","SWE","Europe","Sweden",2010,24.331
+"216","SWE","Europe","Sweden",2016,26.426
+"217","TTO","North America","Trinidad and Tobago",1990,9.431
+"218","TTO","North America","Trinidad and Tobago",1995,10.387
+"219","TTO","North America","Trinidad and Tobago",2000,12.574
+"220","TTO","North America","Trinidad and Tobago",2005,15.226
+"221","TTO","North America","Trinidad and Tobago",2010,18.229
+"222","TTO","North America","Trinidad and Tobago",2016,19.676
+"223","MYS","Asia","Malaysia",1990,17.09
+"224","MYS","Asia","Malaysia",1995,19.808
+"225","MYS","Asia","Malaysia",2000,23.959
+"226","MYS","Asia","Malaysia",2005,28.172
+"227","MYS","Asia","Malaysia",2010,31.214
+"228","MYS","Asia","Malaysia",2016,35.414
+"229","PAN","North America","Panama",1990,10.236
+"230","PAN","North America","Panama",1995,11.333
+"231","PAN","North America","Panama",2000,11.767
+"232","PAN","North America","Panama",2005,12.22
+"233","PAN","North America","Panama",2010,13.807
+"234","PAN","North America","Panama",2016,17.987
+"235","MHL","Oceania","Marshall Islands",1990,25.627
+"236","MHL","Oceania","Marshall Islands",1995,26.938
+"237","MHL","Oceania","Marshall Islands",2000,28.725
+"238","MHL","Oceania","Marshall Islands",2005,29.621
+"239","MHL","Oceania","Marshall Islands",2010,31.816
+"240","MHL","Oceania","Marshall Islands",2016,34.787
+"241","CHL","South America","Chile",1990,23.634
+"242","CHL","South America","Chile",1995,27.125
+"243","CHL","South America","Chile",2000,32.01
+"244","CHL","South America","Chile",2005,36.289
+"245","CHL","South America","Chile",2010,40.212
+"246","CHL","South America","Chile",2016,44.657
+"247","THA","Asia","Thailand",1990,4.591
+"248","THA","Asia","Thailand",1995,7.184
+"249","THA","Asia","Thailand",2000,12.351
+"250","THA","Asia","Thailand",2005,15.223
+"251","THA","Asia","Thailand",2010,17.159
+"252","THA","Asia","Thailand",2016,20.406
+"253","GRD","North America","Grenada",1990,15.366
+"254","GRD","North America","Grenada",1995,19.093
+"255","GRD","North America","Grenada",2000,21.127
+"256","GRD","North America","Grenada",2005,22.963
+"257","GRD","North America","Grenada",2010,24.394
+"258","GRD","North America","Grenada",2016,26.189
+"259","EST","Europe","Estonia",1990,14.964
+"260","EST","Europe","Estonia",1995,14.73
+"261","EST","Europe","Estonia",2000,15.867
+"262","EST","Europe","Estonia",2005,20.108
+"263","EST","Europe","Estonia",2010,24.322
+"264","EST","Europe","Estonia",2016,26.969
+"265","ATG","North America","Antigua and Barbuda",1990,20.785
+"266","ATG","North America","Antigua and Barbuda",1995,23.818
+"267","ATG","North America","Antigua and Barbuda",2000,23.288
+"268","ATG","North America","Antigua and Barbuda",2005,23.735
+"269","ATG","North America","Antigua and Barbuda",2010,27.145
+"270","ATG","North America","Antigua and Barbuda",2016,30.717
+"271","TWN","Asia","Taiwan",1990,19.993
+"272","TWN","Asia","Taiwan",1995,23.071
+"273","TWN","Asia","Taiwan",2000,26.282
+"274","TWN","Asia","Taiwan",2005,27.63
+"275","TWN","Asia","Taiwan",2010,28.523
+"276","TWN","Asia","Taiwan",2016,30.058
+"277","BRB","North America","Barbados",1990,25.458
+"278","BRB","North America","Barbados",1995,27.354
+"279","BRB","North America","Barbados",2000,24.817
+"280","BRB","North America","Barbados",2005,21.84
+"281","BRB","North America","Barbados",2010,20.831
+"282","BRB","North America","Barbados",2016,21.915
+"283","ITA","Europe","Italy",1990,24.491
+"284","ITA","Europe","Italy",1995,26.892
+"285","ITA","Europe","Italy",2000,30.949
+"286","ITA","Europe","Italy",2005,33.541
+"287","ITA","Europe","Italy",2010,34.646
+"288","ITA","Europe","Italy",2016,34.807
+"289","MLT","Europe","Malta",1990,29.186
+"290","MLT","Europe","Malta",1995,32.187
+"291","MLT","Europe","Malta",2000,36.855
+"292","MLT","Europe","Malta",2005,37.596
+"293","MLT","Europe","Malta",2010,37.904
+"294","MLT","Europe","Malta",2016,39.366
+"295","VUT","Oceania","Vanuatu",1990,11.221
+"296","VUT","Oceania","Vanuatu",1995,12.144
+"297","VUT","Oceania","Vanuatu",2000,13.373
+"298","VUT","Oceania","Vanuatu",2005,14.247
+"299","VUT","Oceania","Vanuatu",2010,16.045
+"300","VUT","Oceania","Vanuatu",2016,17.809
+"301","SGP","Asia","Singapore",1990,12.422
+"302","SGP","Asia","Singapore",1995,14.69
+"303","SGP","Asia","Singapore",2000,17.214
+"304","SGP","Asia","Singapore",2005,19.321
+"305","SGP","Asia","Singapore",2010,21.635
+"306","SGP","Asia","Singapore",2016,23.627
+"307","CYP","Asia","Cyprus",1990,18.61
+"308","CYP","Asia","Cyprus",1995,22.095
+"309","CYP","Asia","Cyprus",2000,25.082
+"310","CYP","Asia","Cyprus",2005,27.721
+"311","CYP","Asia","Cyprus",2010,29.134
+"312","CYP","Asia","Cyprus",2016,29.852
+"313","LKA","Asia","Sri Lanka",1990,17.114
+"314","LKA","Asia","Sri Lanka",1995,20.776
+"315","LKA","Asia","Sri Lanka",2000,23.516
+"316","LKA","Asia","Sri Lanka",2005,20.907
+"317","LKA","Asia","Sri Lanka",2010,20.555
+"318","LKA","Asia","Sri Lanka",2016,23.681
+"319","COM","Africa","Comoros",1990,15.896
+"320","COM","Africa","Comoros",1995,18.07
+"321","COM","Africa","Comoros",2000,24.578
+"322","COM","Africa","Comoros",2005,25.272
+"323","COM","Africa","Comoros",2010,26.74
+"324","COM","Africa","Comoros",2016,28.596
+"325","FJI","Oceania","Fiji",1990,21.218
+"326","FJI","Oceania","Fiji",1995,25.017
+"327","FJI","Oceania","Fiji",2000,28.138
+"328","FJI","Oceania","Fiji",2005,29.302
+"329","FJI","Oceania","Fiji",2010,30.167
+"330","FJI","Oceania","Fiji",2016,31.304
+"331","RUS","Europe","Russia",1990,29.852
+"332","RUS","Europe","Russia",1995,28.497
+"333","RUS","Europe","Russia",2000,22.593
+"334","RUS","Europe","Russia",2005,20.933
+"335","RUS","Europe","Russia",2010,22.95
+"336","RUS","Europe","Russia",2016,24.803
+"337","KAZ","Asia","Kazakhstan",1990,17.631
+"338","KAZ","Asia","Kazakhstan",1995,18.219
+"339","KAZ","Asia","Kazakhstan",2000,18.169
+"340","KAZ","Asia","Kazakhstan",2005,21.804
+"341","KAZ","Asia","Kazakhstan",2010,24.738
+"342","KAZ","Asia","Kazakhstan",2016,27.325
+"343","AZE","Asia","Azerbaijan",1990,14.219
+"344","AZE","Asia","Azerbaijan",1995,14.617
+"345","AZE","Asia","Azerbaijan",2000,15.865
+"346","AZE","Asia","Azerbaijan",2005,23.438
+"347","AZE","Asia","Azerbaijan",2010,30.972
+"348","AZE","Asia","Azerbaijan",2016,35.908
+"349","TJK","Asia","Tajikistan",1990,14.847
+"350","TJK","Asia","Tajikistan",1995,16.009
+"351","TJK","Asia","Tajikistan",2000,15.329
+"352","TJK","Asia","Tajikistan",2005,16.457
+"353","TJK","Asia","Tajikistan",2010,17.247
+"354","TJK","Asia","Tajikistan",2016,18.141
+"355","LSO","Africa","Lesotho",1990,12.01
+"356","LSO","Africa","Lesotho",1995,13.755
+"357","LSO","Africa","Lesotho",2000,15.341
+"358","LSO","Africa","Lesotho",2005,15.758
+"359","LSO","Africa","Lesotho",2010,15.127
+"360","LSO","Africa","Lesotho",2016,15.725
+"361","UZB","Asia","Uzbekistan",1990,26.459
+"362","UZB","Asia","Uzbekistan",1995,29.822
+"363","UZB","Asia","Uzbekistan",2000,27.472
+"364","UZB","Asia","Uzbekistan",2005,25.124
+"365","UZB","Asia","Uzbekistan",2010,27.339
+"366","UZB","Asia","Uzbekistan",2016,32.065
+"367","MAR","Africa","Morocco",1990,19.476
+"368","MAR","Africa","Morocco",1995,22.345
+"369","MAR","Africa","Morocco",2000,21.512
+"370","MAR","Africa","Morocco",2005,23.277
+"371","MAR","Africa","Morocco",2010,27.52
+"372","MAR","Africa","Morocco",2016,31.619
+"373","COL","South America","Colombia",1990,11.543
+"374","COL","South America","Colombia",1995,12.09
+"375","COL","South America","Colombia",2000,11.896
+"376","COL","South America","Colombia",2005,10.524
+"377","COL","South America","Colombia",2010,10.169
+"378","COL","South America","Colombia",2016,12.473
+"379","TLS","Asia","Timor",1990,7.983
+"380","TLS","Asia","Timor",1995,9.87
+"381","TLS","Asia","Timor",2000,11.751
+"382","TLS","Asia","Timor",2005,11.162
+"383","TLS","Asia","Timor",2010,9.723
+"384","TLS","Asia","Timor",2016,11.832
+"385","TZA","Africa","Tanzania",1990,14.642
+"386","TZA","Africa","Tanzania",1995,14.116
+"387","TZA","Africa","Tanzania",2000,11.605
+"388","TZA","Africa","Tanzania",2005,9.01
+"389","TZA","Africa","Tanzania",2010,9.962
+"390","TZA","Africa","Tanzania",2016,11.302
+"391","ARG","South America","Argentina",1990,9.814
+"392","ARG","South America","Argentina",1995,11.126
+"393","ARG","South America","Argentina",2000,12.383
+"394","ARG","South America","Argentina",2005,13.28
+"395","ARG","South America","Argentina",2010,14.962
+"396","ARG","South America","Argentina",2016,17.449
+"397","SAU","Asia","Saudi Arabia",1990,22.068
+"398","SAU","Asia","Saudi Arabia",1995,25.905
+"399","SAU","Asia","Saudi Arabia",2000,31.835
+"400","SAU","Asia","Saudi Arabia",2005,35.924
+"401","SAU","Asia","Saudi Arabia",2010,41.585
+"402","SAU","Asia","Saudi Arabia",2016,49.709
+"403","PAK","Asia","Pakistan",1990,10.738
+"404","PAK","Asia","Pakistan",1995,11.933
+"405","PAK","Asia","Pakistan",2000,11.15
+"406","PAK","Asia","Pakistan",2005,7.253
+"407","PAK","Asia","Pakistan",2010,6.686
+"408","PAK","Asia","Pakistan",2016,6.247
+"409","YEM","Asia","Yemen",1990,15.836
+"410","YEM","Asia","Yemen",1995,16.555
+"411","YEM","Asia","Yemen",2000,15.24
+"412","YEM","Asia","Yemen",2005,14.942
+"413","YEM","Asia","Yemen",2010,14.66
+"414","YEM","Asia","Yemen",2016,17.856
+"415","ARE","Asia","United Arab Emirates",1990,16.881
+"416","ARE","Asia","United Arab Emirates",1995,18.018
+"417","ARE","Asia","United Arab Emirates",2000,21.606
+"418","ARE","Asia","United Arab Emirates",2005,26.81
+"419","ARE","Asia","United Arab Emirates",2010,29.934
+"420","ARE","Asia","United Arab Emirates",2016,32.666
+"421","KEN","Africa","Kenya",1990,12.019
+"422","KEN","Africa","Kenya",1995,12.82
+"423","KEN","Africa","Kenya",2000,13.071
+"424","KEN","Africa","Kenya",2005,10.821
+"425","KEN","Africa","Kenya",2010,12.192
+"426","KEN","Africa","Kenya",2016,13.46
+"427","PER","South America","Peru",1990,24.795
+"428","PER","South America","Peru",1995,26.652
+"429","PER","South America","Peru",2000,26.817
+"430","PER","South America","Peru",2005,20.782
+"431","PER","South America","Peru",2010,19.015
+"432","PER","South America","Peru",2016,22.039
+"433","DOM","North America","Dominican Republic",1990,10.246
+"434","DOM","North America","Dominican Republic",1995,12.6
+"435","DOM","North America","Dominican Republic",2000,14.687
+"436","DOM","North America","Dominican Republic",2005,16.516
+"437","DOM","North America","Dominican Republic",2010,19.4
+"438","DOM","North America","Dominican Republic",2016,23.619
+"439","HTI","North America","Haiti",1990,8.121
+"440","HTI","North America","Haiti",1995,8.09
+"441","HTI","North America","Haiti",2000,7.417
+"442","HTI","North America","Haiti",2005,7.813
+"443","HTI","North America","Haiti",2010,7.826
+"444","HTI","North America","Haiti",2016,8.474
+"445","PNG","Oceania","Papua New Guinea",1990,12.42
+"446","PNG","Oceania","Papua New Guinea",1995,12.116
+"447","PNG","Oceania","Papua New Guinea",2000,13.728
+"448","PNG","Oceania","Papua New Guinea",2005,14.796
+"449","PNG","Oceania","Papua New Guinea",2010,15.968
+"450","PNG","Oceania","Papua New Guinea",2016,18.018
+"451","AGO","Africa","Angola",1990,12.423
+"452","AGO","Africa","Angola",1995,13.049
+"453","AGO","Africa","Angola",2000,15.125
+"454","AGO","Africa","Angola",2005,17.879
+"455","AGO","Africa","Angola",2010,21.416
+"456","AGO","Africa","Angola",2016,27.337
+"457","KHM","Asia","Cambodia",1990,3.722
+"458","KHM","Asia","Cambodia",1995,4.868
+"459","KHM","Asia","Cambodia",2000,5.28
+"460","KHM","Asia","Cambodia",2005,4.079
+"461","KHM","Asia","Cambodia",2010,3.855
+"462","KHM","Asia","Cambodia",2016,4.354
+"463","VNM","Asia","Vietnam",1990,2.837
+"464","VNM","Asia","Vietnam",1995,3.396
+"465","VNM","Asia","Vietnam",2000,4.479
+"466","VNM","Asia","Vietnam",2005,6.539
+"467","VNM","Asia","Vietnam",2010,8.892
+"468","VNM","Asia","Vietnam",2016,10.524
+"469","MOZ","Africa","Mozambique",1990,12.388
+"470","MOZ","Africa","Mozambique",1995,14.323
+"471","MOZ","Africa","Mozambique",2000,17.24
+"472","MOZ","Africa","Mozambique",2005,17.448
+"473","MOZ","Africa","Mozambique",2010,17.244
+"474","MOZ","Africa","Mozambique",2016,19.212
+"475","CRI","North America","Costa Rica",1990,22.794
+"476","CRI","North America","Costa Rica",1995,25.66
+"477","CRI","North America","Costa Rica",2000,27.975
+"478","CRI","North America","Costa Rica",2005,30.491
+"479","CRI","North America","Costa Rica",2010,34.091
+"480","CRI","North America","Costa Rica",2016,37.493
+"481","BEN","Africa","Benin",1990,6.517
+"482","BEN","Africa","Benin",1995,8.114
+"483","BEN","Africa","Benin",2000,10.976
+"484","BEN","Africa","Benin",2005,16.426
+"485","BEN","Africa","Benin",2010,19.599
+"486","BEN","Africa","Benin",2016,20.538
+"487","NGA","Africa","Nigeria",1990,9.051
+"488","NGA","Africa","Nigeria",1995,10.684
+"489","NGA","Africa","Nigeria",2000,11.912
+"490","NGA","Africa","Nigeria",2005,14.842
+"491","NGA","Africa","Nigeria",2010,17.572
+"492","NGA","Africa","Nigeria",2016,17.765
+"493","IRN","Asia","Iran",1990,6.515
+"494","IRN","Asia","Iran",1995,10.172
+"495","IRN","Asia","Iran",2000,13.03
+"496","IRN","Asia","Iran",2005,15.742
+"497","IRN","Asia","Iran",2010,17.896
+"498","IRN","Asia","Iran",2016,19.522
+"499","SLV","North America","El Salvador",1990,10.439
+"500","SLV","North America","El Salvador",1995,11.631
+"501","SLV","North America","El Salvador",2000,12.162
+"502","SLV","North America","El Salvador",2005,12.925
+"503","SLV","North America","El Salvador",2010,13.923
+"504","SLV","North America","El Salvador",2016,16.632
+"505","SLE","Africa","Sierra Leone",1990,10.596
+"506","SLE","Africa","Sierra Leone",1995,12.026
+"507","SLE","Africa","Sierra Leone",2000,13.551
+"508","SLE","Africa","Sierra Leone",2005,15.63
+"509","SLE","Africa","Sierra Leone",2010,18.227
+"510","SLE","Africa","Sierra Leone",2016,21.439
+"511","GNB","Africa","Guinea-Bissau",1990,8.826
+"512","GNB","Africa","Guinea-Bissau",1995,10.104
+"513","GNB","Africa","Guinea-Bissau",2000,11.525
+"514","GNB","Africa","Guinea-Bissau",2005,16.314
+"515","GNB","Africa","Guinea-Bissau",2010,17.81
+"516","GNB","Africa","Guinea-Bissau",2016,19.009
+"517","HRV","Europe","Croatia",1990,18.429
+"518","HRV","Europe","Croatia",1995,17.825
+"519","HRV","Europe","Croatia",2000,20.377
+"520","HRV","Europe","Croatia",2005,25.307
+"521","HRV","Europe","Croatia",2010,28.377
+"522","HRV","Europe","Croatia",2016,29.401
+"523","BLZ","North America","Belize",1990,12.69
+"524","BLZ","North America","Belize",1995,17.074
+"525","BLZ","North America","Belize",2000,18.813
+"526","BLZ","North America","Belize",2005,19.831
+"527","BLZ","North America","Belize",2010,18.363
+"528","BLZ","North America","Belize",2016,18.848
+"529","ZAF","Africa","South Africa",1990,19.161
+"530","ZAF","Africa","South Africa",1995,21.726
+"531","ZAF","Africa","South Africa",2000,25.818
+"532","ZAF","Africa","South Africa",2005,26.304
+"533","ZAF","Africa","South Africa",2010,29.162
+"534","ZAF","Africa","South Africa",2016,31.843
+"535","CAF","Africa","Central African Republic",1990,15.359
+"536","CAF","Africa","Central African Republic",1995,15.681
+"537","CAF","Africa","Central African Republic",2000,17.629
+"538","CAF","Africa","Central African Republic",2005,15.109
+"539","CAF","Africa","Central African Republic",2010,13.063
+"540","CAF","Africa","Central African Republic",2016,12.814
+"541","SDN","Africa","Sudan",1990,8.628
+"542","SDN","Africa","Sudan",1995,9.132
+"543","SDN","Africa","Sudan",2000,9.479
+"544","SDN","Africa","Sudan",2005,8.664
+"545","SDN","Africa","Sudan",2010,9.054
+"546","SDN","Africa","Sudan",2016,11.465
+"547","COD","Africa","Democratic Republic of Congo",1990,15.699
+"548","COD","Africa","Democratic Republic of Congo",1995,14.271
+"549","COD","Africa","Democratic Republic of Congo",2000,17.348
+"550","COD","Africa","Democratic Republic of Congo",2005,18.094
+"551","COD","Africa","Democratic Republic of Congo",2010,15.565
+"552","COD","Africa","Democratic Republic of Congo",2016,16.002
+"553","KWT","Asia","Kuwait",1990,36.824
+"554","KWT","Asia","Kuwait",1995,35.658
+"555","KWT","Asia","Kuwait",2000,40.736
+"556","KWT","Asia","Kuwait",2005,44.98
+"557","KWT","Asia","Kuwait",2010,50.766
+"558","KWT","Asia","Kuwait",2016,53.682
+"559","DEU","Europe","Germany",1990,17.987
+"560","DEU","Europe","Germany",1995,20.086
+"561","DEU","Europe","Germany",2000,21.927
+"562","DEU","Europe","Germany",2005,23.525
+"563","DEU","Europe","Germany",2010,24.043
+"564","DEU","Europe","Germany",2016,25.932
+"565","BEL","Europe","Belgium",1990,18.201
+"566","BEL","Europe","Belgium",1995,18.943
+"567","BEL","Europe","Belgium",2000,18.705
+"568","BEL","Europe","Belgium",2005,18.075
+"569","BEL","Europe","Belgium",2010,18.299
+"570","BEL","Europe","Belgium",2016,18.953
+"571","IRL","Europe","Ireland",1990,22.496
+"572","IRL","Europe","Ireland",1995,24.678
+"573","IRL","Europe","Ireland",2000,27.376
+"574","IRL","Europe","Ireland",2005,29.537
+"575","IRL","Europe","Ireland",2010,29.016
+"576","IRL","Europe","Ireland",2016,29.727
+"577","PRK","Asia","North Korea",1990,1.474
+"578","PRK","Asia","North Korea",1995,1.619
+"579","PRK","Asia","North Korea",2000,1.6
+"580","PRK","Asia","North Korea",2005,1.649
+"581","PRK","Asia","North Korea",2010,1.672
+"582","PRK","Asia","North Korea",2016,1.736
+"583","KOR","Asia","South Korea",1990,17.842
+"584","KOR","Asia","South Korea",1995,21.077
+"585","KOR","Asia","South Korea",2000,24.861
+"586","KOR","Asia","South Korea",2005,28.591
+"587","KOR","Asia","South Korea",2010,30.203
+"588","KOR","Asia","South Korea",2016,32.371
+"589","GUY","South America","Guyana",1990,9.66
+"590","GUY","South America","Guyana",1995,10.529
+"591","GUY","South America","Guyana",2000,12.346
+"592","GUY","South America","Guyana",2005,13.807
+"593","GUY","South America","Guyana",2010,14.076
+"594","GUY","South America","Guyana",2016,16.454
+"595","HND","North America","Honduras",1990,6.86
+"596","HND","North America","Honduras",1995,8.565
+"597","HND","North America","Honduras",2000,10.125
+"598","HND","North America","Honduras",2005,12.277
+"599","HND","North America","Honduras",2010,12.652
+"600","HND","North America","Honduras",2016,14.587
+"601","MMR","Asia","Myanmar",1990,3.908
+"602","MMR","Asia","Myanmar",1995,4.719
+"603","MMR","Asia","Myanmar",2000,6.029
+"604","MMR","Asia","Myanmar",2005,8.136
+"605","MMR","Asia","Myanmar",2010,11.135
+"606","MMR","Asia","Myanmar",2016,14.915
+"607","GAB","Africa","Gabon",1990,12.175
+"608","GAB","Africa","Gabon",1995,13.122
+"609","GAB","Africa","Gabon",2000,13.866
+"610","GAB","Africa","Gabon",2005,15.218
+"611","GAB","Africa","Gabon",2010,15.693
+"612","GAB","Africa","Gabon",2016,18.845
+"613","GNQ","Africa","Equatorial Guinea",1990,18.502
+"614","GNQ","Africa","Equatorial Guinea",1995,20.076
+"615","GNQ","Africa","Equatorial Guinea",2000,29.118
+"616","GNQ","Africa","Equatorial Guinea",2005,42.114
+"617","GNQ","Africa","Equatorial Guinea",2010,50.649
+"618","GNQ","Africa","Equatorial Guinea",2016,55.402
+"619","NIC","North America","Nicaragua",1990,14.381
+"620","NIC","North America","Nicaragua",1995,15.875
+"621","NIC","North America","Nicaragua",2000,16.743
+"622","NIC","North America","Nicaragua",2005,14.498
+"623","NIC","North America","Nicaragua",2010,17.044
+"624","NIC","North America","Nicaragua",2016,21.308
+"625","LVA","Europe","Latvia",1990,14.699
+"626","LVA","Europe","Latvia",1995,14.522
+"627","LVA","Europe","Latvia",2000,13.957
+"628","LVA","Europe","Latvia",2005,17.034
+"629","LVA","Europe","Latvia",2010,20.329
+"630","LVA","Europe","Latvia",2016,21.883
+"631","UGA","Africa","Uganda",1990,15.221
+"632","UGA","Africa","Uganda",1995,17.338
+"633","UGA","Africa","Uganda",2000,15.701
+"634","UGA","Africa","Uganda",2005,13.838
+"635","UGA","Africa","Uganda",2010,12.446
+"636","UGA","Africa","Uganda",2016,13.914
+"637","MWI","Africa","Malawi",1990,24.968
+"638","MWI","Africa","Malawi",1995,25.301
+"639","MWI","Africa","Malawi",2000,26.326
+"640","MWI","Africa","Malawi",2005,24.212
+"641","MWI","Africa","Malawi",2010,20.506
+"642","MWI","Africa","Malawi",2016,18.263
+"643","ARM","Asia","Armenia",1990,23.249
+"644","ARM","Asia","Armenia",1995,23.931
+"645","ARM","Asia","Armenia",2000,24.609
+"646","ARM","Asia","Armenia",2005,25.621
+"647","ARM","Asia","Armenia",2010,30.364
+"648","ARM","Asia","Armenia",2016,33.885
+"649","TKM","Asia","Turkmenistan",1990,15.546
+"650","TKM","Asia","Turkmenistan",1995,17.644
+"651","TKM","Asia","Turkmenistan",2000,20.395
+"652","TKM","Asia","Turkmenistan",2005,24.276
+"653","TKM","Asia","Turkmenistan",2010,27.648
+"654","TKM","Asia","Turkmenistan",2016,31.423
+"655","ZMB","Africa","Zambia",1990,19.885
+"656","ZMB","Africa","Zambia",1995,25.331
+"657","ZMB","Africa","Zambia",2000,29.449
+"658","ZMB","Africa","Zambia",2005,32.134
+"659","ZMB","Africa","Zambia",2010,35.005
+"660","ZMB","Africa","Zambia",2016,35.937
+"661","MRT","Africa","Mauritania",1990,7.812
+"662","MRT","Africa","Mauritania",1995,9.049
+"663","MRT","Africa","Mauritania",2000,9.81
+"664","MRT","Africa","Mauritania",2005,8.867
+"665","MRT","Africa","Mauritania",2010,9.024
+"666","MRT","Africa","Mauritania",2016,10.968
+"667","DZA","Africa","Algeria",1990,11.508
+"668","DZA","Africa","Algeria",1995,12.831
+"669","DZA","Africa","Algeria",2000,14.385
+"670","DZA","Africa","Algeria",2005,18.096
+"671","DZA","Africa","Algeria",2010,23.275
+"672","DZA","Africa","Algeria",2016,28.587
+"673","LTU","Europe","Lithuania",1990,12.152
+"674","LTU","Europe","Lithuania",1995,11.712
+"675","LTU","Europe","Lithuania",2000,11.628
+"676","LTU","Europe","Lithuania",2005,14.467
+"677","LTU","Europe","Lithuania",2010,18.633
+"678","LTU","Europe","Lithuania",2016,20.488
+"679","ETH","Africa","Ethiopia",1990,4.862
+"680","ETH","Africa","Ethiopia",1995,5.014
+"681","ETH","Africa","Ethiopia",2000,6.203
+"682","ETH","Africa","Ethiopia",2005,8.979
+"683","ETH","Africa","Ethiopia",2010,10.435
+"684","ETH","Africa","Ethiopia",2016,13.438
+"685","ERI","Africa","Eritrea",1990,4.93
+"686","ERI","Africa","Eritrea",1995,5.363
+"687","ERI","Africa","Eritrea",2000,5.606
+"688","ERI","Africa","Eritrea",2005,6.091
+"689","ERI","Africa","Eritrea",2010,6.687
+"690","ERI","Africa","Eritrea",2016,7.667
+"691","GHA","Africa","Ghana",1990,5.65
+"692","GHA","Africa","Ghana",1995,7.548
+"693","GHA","Africa","Ghana",2000,8.557
+"694","GHA","Africa","Ghana",2005,8.73
+"695","GHA","Africa","Ghana",2010,8.741
+"696","GHA","Africa","Ghana",2016,8.943
+"697","SVN","Europe","Slovenia",1990,20.655
+"698","SVN","Europe","Slovenia",1995,21.319
+"699","SVN","Europe","Slovenia",2000,24.369
+"700","SVN","Europe","Slovenia",2005,28.166
+"701","SVN","Europe","Slovenia",2010,30.798
+"702","SVN","Europe","Slovenia",2016,32.209
+"703","GTM","North America","Guatemala",1990,13.715
+"704","GTM","North America","Guatemala",1995,17.602
+"705","GTM","North America","Guatemala",2000,18.08
+"706","GTM","North America","Guatemala",2005,15.747
+"707","GTM","North America","Guatemala",2010,16.678
+"708","GTM","North America","Guatemala",2016,21.064
+"709","BIH","Europe","Bosnia and Herzegovina",1990,16.916
+"710","BIH","Europe","Bosnia and Herzegovina",1995,17.835
+"711","BIH","Europe","Bosnia and Herzegovina",2000,24.234
+"712","BIH","Europe","Bosnia and Herzegovina",2005,29.47
+"713","BIH","Europe","Bosnia and Herzegovina",2010,30.343
+"714","BIH","Europe","Bosnia and Herzegovina",2016,31.575
+"715","JOR","Asia","Jordan",1990,14.961
+"716","JOR","Asia","Jordan",1995,11.879
+"717","JOR","Asia","Jordan",2000,10.946
+"718","JOR","Asia","Jordan",2005,14.508
+"719","JOR","Asia","Jordan",2010,14.417
+"720","JOR","Asia","Jordan",2016,15.106
+"721","SYR","Asia","Syria",1990,19.156
+"722","SYR","Asia","Syria",1995,21.12
+"723","SYR","Asia","Syria",2000,24.165
+"724","SYR","Asia","Syria",2005,27.257
+"725","SYR","Asia","Syria",2010,31.198
+"726","SYR","Asia","Syria",2016,33.91
+"727","ALB","Europe","Albania",1990,30.014
+"728","ALB","Europe","Albania",1995,33.176
+"729","ALB","Europe","Albania",2000,37.182
+"730","ALB","Europe","Albania",2005,36.577
+"731","ALB","Europe","Albania",2010,37.513
+"732","ALB","Europe","Albania",2016,38.681
+"733","URY","South America","Uruguay",1990,17.694
+"734","URY","South America","Uruguay",1995,19.333
+"735","URY","South America","Uruguay",2000,22.735
+"736","URY","South America","Uruguay",2005,26.245
+"737","URY","South America","Uruguay",2010,31.492
+"738","URY","South America","Uruguay",2016,35.753
+"739","MNG","Asia","Mongolia",1990,19.114
+"740","MNG","Asia","Mongolia",1995,20.899
+"741","MNG","Asia","Mongolia",2000,21.705
+"742","MNG","Asia","Mongolia",2005,22.173
+"743","MNG","Asia","Mongolia",2010,21.819
+"744","MNG","Asia","Mongolia",2016,24.102
+"745","RWA","Africa","Rwanda",1990,14.148
+"746","RWA","Africa","Rwanda",1995,15.65
+"747","RWA","Africa","Rwanda",2000,17.91
+"748","RWA","Africa","Rwanda",2005,19.474
+"749","RWA","Africa","Rwanda",2010,19.092
+"750","RWA","Africa","Rwanda",2016,20.563
+"751","SOM","Africa","Somalia",1990,10.253
+"752","SOM","Africa","Somalia",1995,9.406
+"753","SOM","Africa","Somalia",2000,8.73
+"754","SOM","Africa","Somalia",2005,8.811
+"755","SOM","Africa","Somalia",2010,9.454
+"756","SOM","Africa","Somalia",2016,10.245
+"757","BOL","South America","Bolivia",1990,22.796
+"758","BOL","South America","Bolivia",1995,24.098
+"759","BOL","South America","Bolivia",2000,27.033
+"760","BOL","South America","Bolivia",2005,24.841
+"761","BOL","South America","Bolivia",2010,25.132
+"762","BOL","South America","Bolivia",2016,29.155
+"763","CMR","Africa","Cameroon",1990,15.446
+"764","CMR","Africa","Cameroon",1995,17.581
+"765","CMR","Africa","Cameroon",2000,19.792
+"766","CMR","Africa","Cameroon",2005,20.171
+"767","CMR","Africa","Cameroon",2010,19.288
+"768","CMR","Africa","Cameroon",2016,22.353
+"769","COG","Africa","Congo",1990,14.502
+"770","COG","Africa","Congo",1995,15.625
+"771","COG","Africa","Congo",2000,17.624
+"772","COG","Africa","Congo",2005,17.343
+"773","COG","Africa","Congo",2010,11.616
+"774","COG","Africa","Congo",2016,12.973
+"775","SRB","Europe","Serbia",1990,24.86
+"776","SRB","Europe","Serbia",1995,24.808
+"777","SRB","Europe","Serbia",2000,24.401
+"778","SRB","Europe","Serbia",2005,24.342
+"779","SRB","Europe","Serbia",2010,23.57
+"780","SRB","Europe","Serbia",2016,23.26
+"781","MNE","Europe","Montenegro",1990,27.809
+"782","MNE","Europe","Montenegro",1995,26.036
+"783","MNE","Europe","Montenegro",2000,25.961
+"784","MNE","Europe","Montenegro",2005,28.577
+"785","MNE","Europe","Montenegro",2010,32.354
+"786","MNE","Europe","Montenegro",2016,35.301
+"787","TGO","Africa","Togo",1990,4.981
+"788","TGO","Africa","Togo",1995,6.386
+"789","TGO","Africa","Togo",2000,7.988
+"790","TGO","Africa","Togo",2005,8.572
+"791","TGO","Africa","Togo",2010,8.466
+"792","TGO","Africa","Togo",2016,9.911
+"793","LAO","Asia","Laos",1990,3.773
+"794","LAO","Asia","Laos",1995,4.528
+"795","LAO","Asia","Laos",2000,5.356
+"796","LAO","Asia","Laos",2005,5.052
+"797","LAO","Asia","Laos",2010,5.947
+"798","LAO","Asia","Laos",2016,7.77
+"799","AFG","Asia","Afghanistan",1990,20.641
+"800","AFG","Asia","Afghanistan",1995,17.523
+"801","AFG","Asia","Afghanistan",2000,14.942
+"802","AFG","Asia","Afghanistan",2005,15.734
+"803","AFG","Asia","Afghanistan",2010,18.922
+"804","AFG","Asia","Afghanistan",2016,22.074
+"805","UKR","Europe","Ukraine",1990,11.673
+"806","UKR","Europe","Ukraine",1995,11.862
+"807","UKR","Europe","Ukraine",2000,10.907
+"808","UKR","Europe","Ukraine",2005,12.916
+"809","UKR","Europe","Ukraine",2010,15.835
+"810","UKR","Europe","Ukraine",2016,16.715
+"811","SVK","Europe","Slovakia",1990,16.822
+"812","SVK","Europe","Slovakia",1995,18.043
+"813","SVK","Europe","Slovakia",2000,18.159
+"814","SVK","Europe","Slovakia",2005,18.106
+"815","SVK","Europe","Slovakia",2010,20.613
+"816","SVK","Europe","Slovakia",2016,22.903
+"817","BGR","Europe","Bulgaria",1990,32.217
+"818","BGR","Europe","Bulgaria",1995,30.365
+"819","BGR","Europe","Bulgaria",2000,27.935
+"820","BGR","Europe","Bulgaria",2005,27.733
+"821","BGR","Europe","Bulgaria",2010,30.682
+"822","BGR","Europe","Bulgaria",2016,33.617
+"823","QAT","Asia","Qatar",1990,31.112
+"824","QAT","Asia","Qatar",1995,32.614
+"825","QAT","Asia","Qatar",2000,35.208
+"826","QAT","Asia","Qatar",2005,39.343
+"827","QAT","Asia","Qatar",2010,44.275
+"828","QAT","Asia","Qatar",2016,47.039
+"829","AUT","Europe","Austria",1990,17.459
+"830","AUT","Europe","Austria",1995,19.475
+"831","AUT","Europe","Austria",2000,20.175
+"832","AUT","Europe","Austria",2005,20.111
+"833","AUT","Europe","Austria",2010,20.189
+"834","AUT","Europe","Austria",2016,21.406
+"835","SWZ","Africa","Eswatini",1990,20.853
+"836","SWZ","Africa","Eswatini",1995,21.795
+"837","SWZ","Africa","Eswatini",2000,22.437
+"838","SWZ","Africa","Eswatini",2005,21.382
+"839","SWZ","Africa","Eswatini",2010,20.728
+"840","SWZ","Africa","Eswatini",2016,22.679
+"841","HUN","Europe","Hungary",1990,25.204
+"842","HUN","Europe","Hungary",1995,24.638
+"843","HUN","Europe","Hungary",2000,23.998
+"844","HUN","Europe","Hungary",2005,25.606
+"845","HUN","Europe","Hungary",2010,26.406
+"846","HUN","Europe","Hungary",2016,27.369
+"847","ROU","Europe","Romania",1990,13.235
+"848","ROU","Europe","Romania",1995,14.607
+"849","ROU","Europe","Romania",2000,16.78
+"850","ROU","Europe","Romania",2005,19.464
+"851","ROU","Europe","Romania",2010,22.534
+"852","ROU","Europe","Romania",2016,24.035
+"853","NER","Africa","Niger",1990,5.085
+"854","NER","Africa","Niger",1995,4.848
+"855","NER","Africa","Niger",2000,5.657
+"856","NER","Africa","Niger",2005,8.347
+"857","NER","Africa","Niger",2010,7.935
+"858","NER","Africa","Niger",2016,7.52
+"859","LUX","Europe","Luxembourg",1990,17.651
+"860","LUX","Europe","Luxembourg",1995,20.816
+"861","LUX","Europe","Luxembourg",2000,23.448
+"862","LUX","Europe","Luxembourg",2005,25.882
+"863","LUX","Europe","Luxembourg",2010,28.306
+"864","LUX","Europe","Luxembourg",2016,29.96
+"865","AND","Europe","Andorra",1990,18.987
+"866","AND","Europe","Andorra",1995,21.151
+"867","AND","Europe","Andorra",2000,24.775
+"868","AND","Europe","Andorra",2005,26.166
+"869","AND","Europe","Andorra",2010,26.721
+"870","AND","Europe","Andorra",2016,26.564
+"871","CIV","Africa","Cote d'Ivoire",1990,13.17
+"872","CIV","Africa","Cote d'Ivoire",1995,11.84
+"873","CIV","Africa","Cote d'Ivoire",2000,12.842
+"874","CIV","Africa","Cote d'Ivoire",2005,14.206
+"875","CIV","Africa","Cote d'Ivoire",2010,12.847
+"876","CIV","Africa","Cote d'Ivoire",2016,14.31
+"877","LBR","Africa","Liberia",1990,13.93
+"878","LBR","Africa","Liberia",1995,12.532
+"879","LBR","Africa","Liberia",2000,11.776
+"880","LBR","Africa","Liberia",2005,13.525
+"881","LBR","Africa","Liberia",2010,14.718
+"882","LBR","Africa","Liberia",2016,16.392
+"883","BRN","Asia","Brunei",1990,8.996
+"884","BRN","Asia","Brunei",1995,10.308
+"885","BRN","Asia","Brunei",2000,12.51
+"886","BRN","Asia","Brunei",2005,15.842
+"887","BRN","Asia","Brunei",2010,17.287
+"888","BRN","Asia","Brunei",2016,18.883
+"889","IRQ","Asia","Iraq",1990,17.558
+"890","IRQ","Asia","Iraq",1995,15.765
+"891","IRQ","Asia","Iraq",2000,15.535
+"892","IRQ","Asia","Iraq",2005,22.532
+"893","IRQ","Asia","Iraq",2010,24.629
+"894","IRQ","Asia","Iraq",2016,28.794
+"895","GEO","Asia","Georgia",1990,23.966
+"896","GEO","Asia","Georgia",1995,23.88
+"897","GEO","Asia","Georgia",2000,24.6
+"898","GEO","Asia","Georgia",2005,28.584
+"899","GEO","Asia","Georgia",2010,30.095
+"900","GEO","Asia","Georgia",2016,33.143
+"901","GMB","Africa","Gambia",1990,13.342
+"902","GMB","Africa","Gambia",1995,14.918
+"903","GMB","Africa","Gambia",2000,15.433
+"904","GMB","Africa","Gambia",2005,11.004
+"905","GMB","Africa","Gambia",2010,11.646
+"906","GMB","Africa","Gambia",2016,12.878
+"907","CHE","Europe","Switzerland",1990,17.434
+"908","CHE","Europe","Switzerland",1995,17.689
+"909","CHE","Europe","Switzerland",2000,18.245
+"910","CHE","Europe","Switzerland",2005,19.643
+"911","CHE","Europe","Switzerland",2010,21.466
+"912","CHE","Europe","Switzerland",2016,22.606
+"913","TCD","Africa","Chad",1990,6.367
+"914","TCD","Africa","Chad",1995,7.923
+"915","TCD","Africa","Chad",2000,9.435
+"916","TCD","Africa","Chad",2005,10.14
+"917","TCD","Africa","Chad",2010,9.303
+"918","TCD","Africa","Chad",2016,9.437
+"919","LBN","Asia","Lebanon",1990,23.158
+"920","LBN","Asia","Lebanon",1995,27.945
+"921","LBN","Asia","Lebanon",2000,31.149
+"922","LBN","Asia","Lebanon",2005,28.829
+"923","LBN","Asia","Lebanon",2010,22.627
+"924","LBN","Asia","Lebanon",2016,25.331
+"925","DJI","Africa","Djibouti",1990,8.86
+"926","DJI","Africa","Djibouti",1995,10.734
+"927","DJI","Africa","Djibouti",2000,13.572
+"928","DJI","Africa","Djibouti",2005,17.297
+"929","DJI","Africa","Djibouti",2010,22.05
+"930","DJI","Africa","Djibouti",2016,26.763
+"931","BDI","Africa","Burundi",1990,8.201
+"932","BDI","Africa","Burundi",1995,11.803
+"933","BDI","Africa","Burundi",2000,11.667
+"934","BDI","Africa","Burundi",2005,10.296
+"935","BDI","Africa","Burundi",2010,9.501
+"936","BDI","Africa","Burundi",2016,9.452
+"937","SUR","South America","Suriname",1990,7.111
+"938","SUR","South America","Suriname",1995,7.815
+"939","SUR","South America","Suriname",2000,8.175
+"940","SUR","South America","Suriname",2005,9.132
+"941","SUR","South America","Suriname",2010,10.654
+"942","SUR","South America","Suriname",2016,12.915
+"943","ISR","Asia","Israel",1990,17.847
+"944","ISR","Asia","Israel",1995,20.257
+"945","ISR","Asia","Israel",2000,22.293
+"946","ISR","Asia","Israel",2005,24.611
+"947","ISR","Asia","Israel",2010,27.019
+"948","ISR","Asia","Israel",2016,28.552
+"949","MLI","Africa","Mali",1990,5.164
+"950","MLI","Africa","Mali",1995,7.914
+"951","MLI","Africa","Mali",2000,9.264
+"952","MLI","Africa","Mali",2005,10.057
+"953","MLI","Africa","Mali",2010,11.654
+"954","MLI","Africa","Mali",2016,13.783
+"955","SEN","Africa","Senegal",1990,7.275
+"956","SEN","Africa","Senegal",1995,7.175
+"957","SEN","Africa","Senegal",2000,7.001
+"958","SEN","Africa","Senegal",2005,6.206
+"959","SEN","Africa","Senegal",2010,6.338
+"960","SEN","Africa","Senegal",2016,7.682
+"961","GIN","Africa","Guinea",1990,10.436
+"962","GIN","Africa","Guinea",1995,11.165
+"963","GIN","Africa","Guinea",2000,11.27
+"964","GIN","Africa","Guinea",2005,11.066
+"965","GIN","Africa","Guinea",2010,12.436
+"966","GIN","Africa","Guinea",2016,14.334
+"967","ZWE","Africa","Zimbabwe",1990,12.973
+"968","ZWE","Africa","Zimbabwe",1995,15.855
+"969","ZWE","Africa","Zimbabwe",2000,18.075
+"970","ZWE","Africa","Zimbabwe",2005,16.103
+"971","ZWE","Africa","Zimbabwe",2010,12.39
+"972","ZWE","Africa","Zimbabwe",2016,11.215
+"973","POL","Europe","Poland",1990,18.033
+"974","POL","Europe","Poland",1995,18.001
+"975","POL","Europe","Poland",2000,18.87
+"976","POL","Europe","Poland",2005,19.705
+"977","POL","Europe","Poland",2010,21.417
+"978","POL","Europe","Poland",2016,22.682
+"979","MKD","Europe","North Macedonia",1990,20.376
+"980","MKD","Europe","North Macedonia",1995,20.836
+"981","MKD","Europe","North Macedonia",2000,22.731
+"982","MKD","Europe","North Macedonia",2005,25.333
+"983","MKD","Europe","North Macedonia",2010,26.465
+"984","MKD","Europe","North Macedonia",2016,28.987
+"985","PRY","South America","Paraguay",1990,14.283
+"986","PRY","South America","Paraguay",1995,15.449
+"987","PRY","South America","Paraguay",2000,18.058
+"988","PRY","South America","Paraguay",2005,21.031
+"989","PRY","South America","Paraguay",2010,24.177
+"990","PRY","South America","Paraguay",2016,27.694
+"991","BLR","Europe","Belarus",1990,16.557
+"992","BLR","Europe","Belarus",1995,17.451
+"993","BLR","Europe","Belarus",2000,15.939
+"994","BLR","Europe","Belarus",2005,16.332
+"995","BLR","Europe","Belarus",2010,18.92
+"996","BLR","Europe","Belarus",2016,21.884
+"997","CZE","Europe","Czechia",1990,19.822
+"998","CZE","Europe","Czechia",1995,20.669
+"999","CZE","Europe","Czechia",2000,21.517
+"1000","CZE","Europe","Czechia",2005,23.209
+"1001","CZE","Europe","Czechia",2010,24.628
+"1002","CZE","Europe","Czechia",2016,25.584
+"1003","BFA","Africa","Burkina Faso",1990,7.539
+"1004","BFA","Africa","Burkina Faso",1995,9.707
+"1005","BFA","Africa","Burkina Faso",2000,11.596
+"1006","BFA","Africa","Burkina Faso",2005,13.389
+"1007","BFA","Africa","Burkina Faso",2010,12.271
+"1008","BFA","Africa","Burkina Faso",2016,13.798
+"1009","NAM","Africa","Namibia",1990,6.745
+"1010","NAM","Africa","Namibia",1995,6.551
+"1011","NAM","Africa","Namibia",2000,6.881
+"1012","NAM","Africa","Namibia",2005,9.628
+"1013","NAM","Africa","Namibia",2010,11.217
+"1014","NAM","Africa","Namibia",2016,11.525
+"1015","LBY","Africa","Libya",1990,31.09
+"1016","LBY","Africa","Libya",1995,31.654
+"1017","LBY","Africa","Libya",2000,34.206
+"1018","LBY","Africa","Libya",2005,37.293
+"1019","LBY","Africa","Libya",2010,41.762
+"1020","LBY","Africa","Libya",2016,43.962
+"1021","TUN","Africa","Tunisia",1990,13.403
+"1022","TUN","Africa","Tunisia",1995,16.054
+"1023","TUN","Africa","Tunisia",2000,17.437
+"1024","TUN","Africa","Tunisia",2005,20.21
+"1025","TUN","Africa","Tunisia",2010,22.716
+"1026","TUN","Africa","Tunisia",2016,26.352
+"1027","BTN","Asia","Bhutan",1990,5.942
+"1028","BTN","Asia","Bhutan",1995,7.061
+"1029","BTN","Asia","Bhutan",2000,8.272
+"1030","BTN","Asia","Bhutan",2005,9.945
+"1031","BTN","Asia","Bhutan",2010,12.363
+"1032","BTN","Asia","Bhutan",2016,15.546
+"1033","MDA","Europe","Moldova",1990,8.721
+"1034","MDA","Europe","Moldova",1995,9.046
+"1035","MDA","Europe","Moldova",2000,7.976
+"1036","MDA","Europe","Moldova",2005,8.072
+"1037","MDA","Europe","Moldova",2010,8.948
+"1038","MDA","Europe","Moldova",2016,10.441
+"1039","SSD","Africa","South Sudan",1990,14.406
+"1040","SSD","Africa","South Sudan",1995,15.3
+"1041","SSD","Africa","South Sudan",2000,15.472
+"1042","SSD","Africa","South Sudan",2005,15.054
+"1043","SSD","Africa","South Sudan",2010,15.356
+"1044","SSD","Africa","South Sudan",2016,16.527
+"1045","BWA","Africa","Botswana",1990,14.7
+"1046","BWA","Africa","Botswana",1995,17.756
+"1047","BWA","Africa","Botswana",2000,20.522
+"1048","BWA","Africa","Botswana",2005,21.562
+"1049","BWA","Africa","Botswana",2010,23.643
+"1050","BWA","Africa","Botswana",2016,27.537
+"1051","BHS","North America","Bahamas",1990,22.052
+"1052","BHS","North America","Bahamas",1995,24.6
+"1053","BHS","North America","Bahamas",2000,25.464
+"1054","BHS","North America","Bahamas",2005,24.45
+"1055","BHS","North America","Bahamas",2010,22.747
+"1056","BHS","North America","Bahamas",2016,23.197
+"1057","NZL","Oceania","New Zealand",1990,26.533
+"1058","NZL","Oceania","New Zealand",1995,29.686
+"1059","NZL","Oceania","New Zealand",2000,31.282
+"1060","NZL","Oceania","New Zealand",2005,31.099
+"1061","NZL","Oceania","New Zealand",2010,31.067
+"1062","NZL","Oceania","New Zealand",2016,32.81
+"1063","CUB","North America","Cuba",1990,20.721
+"1064","CUB","North America","Cuba",1995,18.7
+"1065","CUB","North America","Cuba",2000,17.658
+"1066","CUB","North America","Cuba",2005,20.658
+"1067","CUB","North America","Cuba",2010,22.57
+"1068","CUB","North America","Cuba",2016,25.01
+"1069","ECU","South America","Ecuador",1990,14.708
+"1070","ECU","South America","Ecuador",1995,16.136
+"1071","ECU","South America","Ecuador",2000,17.017
+"1072","ECU","South America","Ecuador",2005,16.75
+"1073","ECU","South America","Ecuador",2010,17.876
+"1074","ECU","South America","Ecuador",2016,20.894
+"1075","AUS","Oceania","Australia",1990,15.97
+"1076","AUS","Oceania","Australia",1995,16.523
+"1077","AUS","Oceania","Australia",2000,18.911
+"1078","AUS","Oceania","Australia",2005,21.072
+"1079","AUS","Oceania","Australia",2010,23.095
+"1080","AUS","Oceania","Australia",2016,25.814
+"1081","VEN","South America","Venezuela",1990,25.175
+"1082","VEN","South America","Venezuela",1995,25.935
+"1083","VEN","South America","Venezuela",2000,26.743
+"1084","VEN","South America","Venezuela",2005,27.997
+"1085","VEN","South America","Venezuela",2010,32.423
+"1086","VEN","South America","Venezuela",2016,37.558
+"1087","SLB","Oceania","Solomon Islands",1990,19.499
+"1088","SLB","Oceania","Solomon Islands",1995,21.915
+"1089","SLB","Oceania","Solomon Islands",2000,24.05
+"1090","SLB","Oceania","Solomon Islands",2005,24.537
+"1091","SLB","Oceania","Solomon Islands",2010,26.068
+"1092","SLB","Oceania","Solomon Islands",2016,28.964
+"1093","MDG","Africa","Madagascar",1990,7.298
+"1094","MDG","Africa","Madagascar",1995,6.546
+"1095","MDG","Africa","Madagascar",2000,7.6
+"1096","MDG","Africa","Madagascar",2005,9.297
+"1097","MDG","Africa","Madagascar",2010,10.07
+"1098","MDG","Africa","Madagascar",2016,11.001
+"1099","ISL","Europe","Iceland",1990,27.933
+"1100","ISL","Europe","Iceland",1995,28.392
+"1101","ISL","Europe","Iceland",2000,30.609
+"1102","ISL","Europe","Iceland",2005,31.942
+"1103","ISL","Europe","Iceland",2010,33.943
+"1104","ISL","Europe","Iceland",2016,36.131
+"1105","EGY","Africa","Egypt",1990,26.302
+"1106","EGY","Africa","Egypt",1995,31.706
+"1107","EGY","Africa","Egypt",2000,29.017
+"1108","EGY","Africa","Egypt",2005,26.774
+"1109","EGY","Africa","Egypt",2010,28.231
+"1110","EGY","Africa","Egypt",2016,23.543
+"1111","KGZ","Asia","Kyrgyzstan",1990,19.677
+"1112","KGZ","Asia","Kyrgyzstan",1995,21.597
+"1113","KGZ","Asia","Kyrgyzstan",2000,20.552
+"1114","KGZ","Asia","Kyrgyzstan",2005,18.203
+"1115","KGZ","Asia","Kyrgyzstan",2010,16.589
+"1116","KGZ","Asia","Kyrgyzstan",2016,17.416
+"1117","NPL","Asia","Nepal",1990,3.596
+"1118","NPL","Asia","Nepal",1995,4.923
+"1119","NPL","Asia","Nepal",2000,4.006
+"1120","NPL","Asia","Nepal",2005,3.526
+"1121","NPL","Asia","Nepal",2010,4.111
+"1122","NPL","Asia","Nepal",2016,5.444

@@ -1,0 +1,4 @@
+obesity_rate <- "Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New-Hampshire New-Jersey New-Mexico New-York North-Carolina North-Dakota Ohio Oklahoma Oregon Pennsylvania Rhode-Island South-Carolina South-Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming"
+obesity_rate <- strsplit(obesity_rate, split=" ")
+year_2019 <- "17.3 15.4 12.1 20.2 17.1 10.9 13.3 16.0 12.5 17.8 14.9 11.1 12.1 14.9 16.7 15.3 10.6 23.8 20.1 13.2 17.6 11.8 17.3 9.9 22.3 16.3 10.6 11.5 12.9 13.7 14.0 15.2 10.7 16.1 13.1 15.7 18.8 12.9 14.5 17.5 22.1 11.7 20.4 17.3 9.6 14.0 13.0 11.9 19.6 14.2 13.7"
+year_2019 <- strsplit(obesity_rate, split=" ")

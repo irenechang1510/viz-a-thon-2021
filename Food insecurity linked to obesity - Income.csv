@@ -1,0 +1,9 @@
+Income level,Percentage,status
+"<$25,000",27.4,secure
+"$25,000–$49,999",28.3,secure
+"$50,000–$74,999",25.9,secure
+"≥$75,000",22.6,secure
+"<$25,000",35.9,insecure
+"$25,000–$49,999",34,insecure
+"$50,000–$74,999",38.3,insecure
+"≥$75,000",29.7,insecure
