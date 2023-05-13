@@ -18,7 +18,7 @@ library(openintro, warn.conflicts = FALSE)
 insecurity.education <- read.csv("Food insecurity linked to obesity - Education.csv")
 insecurity.income <- read.csv("Food insecurity linked to obesity - Income.csv")
 policy <- read.csv("CDC_Nutrition__Physical_Activity__and_Obesity_-_Legislation.csv")
-time_obese_data <- read.csv("time_obese_data.csv")
+time_obese_data <- readRDS("time_obese_data.rds")
 obesity.rate <- data.frame(
   Date = paste(
     "01", "01",
@@ -30,9 +30,9 @@ obesity.rate <- data.frame(
   girls= c(14.3, 16.0, 14.9, 15.9, 15.0, 17.2, 17.1, 17.8, 18.0)
 )
 text <- read.delim("txt mining.txt")
-scaled_num_restaurants <- read.csv("scaled_num_restaurants.csv")
+scaled_num_restaurants <- readRDS("scaled_num_restaurants.rds")
 mapdata <- get_data_from_map(download_map_data("custom/world.js"))
-children_overweight <- read.csv("children_overweight.csv")
+children_overweight <- readRDS("children_overweight.rds")
 StateStats <- read.csv("StateStats.csv")
 
 ## CLEANING DATA
@@ -629,7 +629,7 @@ server <- function(input, output, session) {
     }
     # total
     else{
-      numRest <- read.csv("num_restaurants_state.csv")
+      numRest <- readRDS("num_restaurants_state.rds")
       highchart(type="map") %>%
         hc_add_series_map(map = usgeojson,  numRest,
                           name = "state",
