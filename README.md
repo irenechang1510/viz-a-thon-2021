@@ -6,4 +6,4 @@ As a team of 3, together we collected data on a wide range of health, demographi
  
 INFOGRAPHICS:
 
-![](https://github.com/irenechang1510/Viz-a-thon-2021/blob/main/Viz-a-thon.png)
+![](Viz-a-thon.png)
